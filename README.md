@@ -1,8 +1,14 @@
  Olá, meu nome é Laura Araújo de Queiroz!
  
- Sou iniciante na área da progamaçao, no momneto já tenho uma base de HTML, CSS e PYTHON;
+ Sou iniciante na área da progamação, no momneto já tenho uma base em HTML, CSS e PYTHON;
+
+ 
  Sou uma pessoa dedicada e que está sempre pronta para aprender mais e ennfreantar os desafios;
+
+ 
  Contate-me: araujodequeirozlaura@gmail.com;
+
+ 
  Pronome: ela/dela;
 
 
