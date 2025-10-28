@@ -6,7 +6,7 @@
  
  Contate-me: araujodequeirozlaura@gmail.com;
 
- Pronome: ela/dela;
+
 
 
 <!---
