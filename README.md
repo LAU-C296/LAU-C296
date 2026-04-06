@@ -1,6 +1,6 @@
  Olá, meu nome é Laura Araújo de Queiroz!
  
- Sou iniciante na área da progamação, no momneto já tenho uma base em HTML, CSS e PYTHON;
+ Sou iniciante no mundo DEV focando em ser uma programadora FULLSTACK;
  
  Sou uma pessoa dedicada e que está sempre pronta para aprender mais e ennfreantar os desafios;
  
