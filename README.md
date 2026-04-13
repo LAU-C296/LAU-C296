@@ -1,6 +1,6 @@
  Olá, meu nome é Laura Araújo de Queiroz!
  
- Sou iniciante no mundo DEV focando em ser uma programadora FULLSTACK;
+ Estudande do Projeto Desenvolve - Bom Despacho 
  
  Sou uma pessoa dedicada e que está sempre pronta para aprender mais e ennfreantar os desafios;
  
